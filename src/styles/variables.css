@@ -1,0 +1,17 @@
+:root {
+  --primary-color: rgba(20, 40, 160, 1);
+  --light-blue: rgb(0, 123, 255); 
+  --light-gray: rgb(204, 204, 204);
+  --dark-gray: rgba(118, 118, 118, 1);
+  --white: rgb(255, 255, 255);
+  --light-creme: rgba(248, 248, 248, 1);
+  --black: rgba(0, 0, 0, 1);
+  --light-black: rgba(28, 28, 28, 1);
+}
+
+@font-face {
+  font-family: 'Samsung One', sans-serif;
+  src: url(../../public/fonts/SamsungOne-400.ttf) format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
