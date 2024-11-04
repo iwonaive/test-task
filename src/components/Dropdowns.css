@@ -6,6 +6,8 @@
   font-weight: bold;
   max-width: 64.5rem;
   margin: 0 auto;
+  line-height: 2.125rem;
+  font-size: 1.125rem;
 }
 
 .dropdown {
@@ -18,5 +20,6 @@
   padding: 0.5rem;
   font-size: 0.875rem;
   border-radius: 0.25rem;
-  border: 1px solid var(--light-gray);
+  border: none;
+  font-size: 0.75rem;
 }
